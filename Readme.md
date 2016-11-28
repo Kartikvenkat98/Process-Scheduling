@@ -1,6 +1,6 @@
-##Spider Algos Project
+##Process Scheduling
 
-This project is for scheduling of the processes. It also takes care of processing multiple operations at the same time.<br />
+This project is for scheduling of the processes in the Operating Systems. It also takes care of processing multiple operations at the same time.<br />
 The task scheduling is done by three processes:
 
 **First Come First Serve**  
